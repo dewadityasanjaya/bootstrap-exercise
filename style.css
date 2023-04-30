@@ -1,0 +1,13 @@
+.btn-primary{
+	background-color: red;
+}
+
+.btn-primary:hover{
+	background-color: pink;
+}
+
+.col{
+	background-color: gray;
+	border: 2px solid black;
+	color: white;
+}
